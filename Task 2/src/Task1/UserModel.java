@@ -1,3 +1,5 @@
+package Task1;
+
 public class UserModel {
     private String name;
 

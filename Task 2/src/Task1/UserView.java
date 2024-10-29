@@ -1,5 +1,6 @@
+package Task1;
+
 import java.util.Scanner;
-import java.util.List;
 
 public class UserView {
     private Scanner scanner;
